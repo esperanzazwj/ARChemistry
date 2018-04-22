@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ARChemistry\Scripts\ARTimer.cs">
+    <Files>
+      <File FileName="Assets\ARChemistry\Scripts\ImageTarget_DynamicLoad_AutoPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\ARChemistry\Scripts\EasyImageTargetBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\ARChemistry\Scripts\ARTimer.cs" Line="18" Column="62" />
+      <File FileName="Assets\ARChemistry\Scripts\TouchReact.cs" Line="1" Column="1" />
+      <File FileName="Assets\ARChemistry\Scripts\ButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\ARChemistry\Scripts\Test.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\ZWJ\Desktop\ARChemistry\Assets\ARChemistry\Scripts\ImageTarget_DynamicLoad_AutoPlay.cs" line="35" column="1" />
+      <Breakpoint file="C:\Users\ZWJ\Desktop\ARChemistry\Assets\ARChemistry\Scripts\ARTimer.cs" line="10" column="1" />
+      <Breakpoint file="C:\Users\ZWJ\Desktop\ARChemistry\Assets\ARChemistry\Scripts\ARTimer.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

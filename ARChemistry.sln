@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{48125EF9-6E3F-FDB5-5A49-5794952E204C}") = "ARChemistry", "Assembly-CSharp.csproj", "{8584CE94-1B08-0A72-73CC-B15B26629DED}"
+EndProject
+Project("{48125EF9-6E3F-FDB5-5A49-5794952E204C}") = "ARChemistry", "Assembly-CSharp-Editor.csproj", "{7D93168E-5691-8C46-74D2-C45937C05D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8584CE94-1B08-0A72-73CC-B15B26629DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8584CE94-1B08-0A72-73CC-B15B26629DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8584CE94-1B08-0A72-73CC-B15B26629DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8584CE94-1B08-0A72-73CC-B15B26629DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D93168E-5691-8C46-74D2-C45937C05D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D93168E-5691-8C46-74D2-C45937C05D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D93168E-5691-8C46-74D2-C45937C05D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D93168E-5691-8C46-74D2-C45937C05D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
